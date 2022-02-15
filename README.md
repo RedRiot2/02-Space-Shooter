@@ -1,15 +1,18 @@
-# Project Name
+# Space Shooter
+Project 2 for BL-MSCH-C220 at Indiana University, created 2/14/22
 
-Context and date
-
-Description
+Simple 2D space shooter game
 
 ## Implementation
-Which features you included
+Keyboard controls, top-down ship that can shoot astroids and enemies.
 
 ## References
+https://opengameart.org/content/explosion-sheet 
+https://kenney.nl/assets/space-shooter-redux
+https://kenney.nl/assets/simple-space
 
 ## Future Development
+None
 
 ## Created by
-Jason Francis
+Matthew Miller
